@@ -16,7 +16,7 @@
   "font": {
     "fontFamily": "sans-serif",
     "fontWeight": 500,
-    "color": "#fff"
+    "color": "#000"
   },
   "version": "1.15.0",
   "exbVersion": "1.15.0",
