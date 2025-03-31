@@ -11190,13 +11190,8 @@
               "right": false,
               "left": true,
               "top": true,
-              "bottom": false,
-              "height": {}
-            },
-            "vCenter": false,
-            "hCenter": false,
-            "heightMode": "ratio",
-            "aspectRatio": 0.39
+              "bottom": false
+            }
           }
         }
       },
@@ -83946,7 +83941,7 @@
       "page_6": []
     }
   ],
-  "timestamp": 1743352778352,
+  "timestamp": 1743392725328,
   "attributes": {
     "portalUrl": "https://jcdisi.maps.arcgis.com"
   },
