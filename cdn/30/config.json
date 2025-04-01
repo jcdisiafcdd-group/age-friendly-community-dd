@@ -11190,13 +11190,8 @@
               "right": false,
               "left": true,
               "top": true,
-              "bottom": false,
-              "height": {}
-            },
-            "vCenter": false,
-            "hCenter": false,
-            "heightMode": "ratio",
-            "aspectRatio": 0.39
+              "bottom": false
+            }
           }
         }
       },
@@ -48984,7 +48979,7 @@
               },
               "text": {
                 "color": "var(--info-800)",
-                "size": "18px",
+                "size": "16px",
                 "bold": true
               },
               "borderRadius": {
@@ -49067,7 +49062,7 @@
               },
               "text": {
                 "color": "var(--info-800)",
-                "size": "18px",
+                "size": "16px",
                 "bold": true
               },
               "borderRadius": {
@@ -50480,7 +50475,7 @@
               },
               "text": {
                 "color": "var(--info-800)",
-                "size": "18px",
+                "size": "16px",
                 "bold": true
               },
               "borderRadius": {
@@ -50563,7 +50558,7 @@
               },
               "text": {
                 "color": "var(--info-800)",
-                "size": "18px",
+                "size": "16px",
                 "bold": true
               },
               "borderRadius": {
@@ -52508,7 +52503,7 @@
               },
               "text": {
                 "color": "var(--info-800)",
-                "size": "18px",
+                "size": "16px",
                 "bold": true
               },
               "borderRadius": {
@@ -52591,7 +52586,7 @@
               },
               "text": {
                 "color": "var(--info-800)",
-                "size": "18px",
+                "size": "16px",
                 "bold": true
               },
               "borderRadius": {
@@ -83897,7 +83892,7 @@
       "page_6": []
     }
   ],
-  "timestamp": 1743352778352,
+  "timestamp": 1743526426939,
   "attributes": {
     "portalUrl": "https://jcdisi.maps.arcgis.com",
     "isWebTier": false,
@@ -84014,5 +84009,5 @@
       ]
     }
   },
-  "publishTimestamp": 1743356122818
+  "publishTimestamp": 1743526429054
 }

@@ -49004,7 +49004,7 @@
               },
               "text": {
                 "color": "var(--info-800)",
-                "size": "18px",
+                "size": "16px",
                 "bold": true
               },
               "borderRadius": {
@@ -49087,7 +49087,7 @@
               },
               "text": {
                 "color": "var(--info-800)",
-                "size": "18px",
+                "size": "16px",
                 "bold": true
               },
               "borderRadius": {
@@ -50512,7 +50512,7 @@
               },
               "text": {
                 "color": "var(--info-800)",
-                "size": "18px",
+                "size": "16px",
                 "bold": true
               },
               "borderRadius": {
@@ -50595,7 +50595,7 @@
               },
               "text": {
                 "color": "var(--info-800)",
-                "size": "18px",
+                "size": "16px",
                 "bold": true
               },
               "borderRadius": {
@@ -52552,7 +52552,7 @@
               },
               "text": {
                 "color": "var(--info-800)",
-                "size": "18px",
+                "size": "16px",
                 "bold": true
               },
               "borderRadius": {
@@ -52635,7 +52635,7 @@
               },
               "text": {
                 "color": "var(--info-800)",
-                "size": "18px",
+                "size": "16px",
                 "bold": true
               },
               "borderRadius": {
@@ -83941,7 +83941,7 @@
       "page_6": []
     }
   ],
-  "timestamp": 1743392725328,
+  "timestamp": 1743526426939,
   "attributes": {
     "portalUrl": "https://jcdisi.maps.arcgis.com"
   },
