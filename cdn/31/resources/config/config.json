@@ -13001,14 +13001,14 @@
         "initialMapState": {
           "viewPoint": {
             "rotation": 4.334553843301251,
-            "scale": 18055.954822,
+            "scale": 9027.977411,
             "targetGeometry": {
               "spatialReference": {
                 "latestWkid": 3857,
                 "wkid": 102100
               },
-              "x": 12703702.58436495,
-              "y": 2555615.3137467057
+              "x": 12703111.96377478,
+              "y": 2555964.645189138
             }
           },
           "extent": {
@@ -13016,10 +13016,10 @@
               "latestWkid": 3857,
               "wkid": 102100
             },
-            "xmin": 12700645.103233462,
-            "ymin": 2554430.539808254,
-            "xmax": 12706760.06549644,
-            "ymax": 2556800.087685157
+            "xmin": 12701583.223209037,
+            "ymin": 2555372.258219912,
+            "xmax": 12704640.704340523,
+            "ymax": 2556557.032158364
           },
           "rotation": 4.334553843301251,
           "viewType": "2d"
@@ -13047,6 +13047,7 @@
       "label": "Text 5",
       "config": {
         "text": "<p style=\"text-align: left; line-height: 1;\"><strong style=\"letter-spacing: 0px; font-size: 36px; font-family: &quot;Avenir Next&quot;; color: rgb(177, 189, 203);\"> </strong><strong style=\"letter-spacing: 0px; font-size: 28px; font-family: &quot;Avenir Next&quot;; color: rgb(177, 189, 203);\">Age-Friendly Community(造就適老化社區)</strong></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "verticalAlign": "start",
           "wrap": true
@@ -23085,6 +23086,7 @@
       "label": "Text 25",
       "config": {
         "text": "<p style=\"text-align: center;\">  <exp data-uniqueid=\"a254c7ad_d6a9_d9bd_b95a_348db3e67d0e\" data-dsid=\"dataSource_157-190f3ea6612-layer-91,dataSource_157-190f3ea6612-layer-91-selection\" data-expression=\"%7B%22name%22%3A%22COUNT(%7BObjectId%7D)%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FUNCTION%22%2C%22exp%22%3A%22COUNT%22%7D%2C%7B%22type%22%3A%22OPERATOR%22%2C%22exp%22%3A%22(%22%7D%2C%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BObjectId%7D%22%2C%22dataSourceId%22%3A%22dataSource_157-190f3ea6612-layer-91%22%2C%22jimuFieldName%22%3A%22ObjectId%22%7D%2C%7B%22type%22%3A%22OPERATOR%22%2C%22exp%22%3A%22)%22%7D%5D%7D\">﻿<span contenteditable=\"false\">COUNT({ObjectId})</span>﻿</exp> </p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "verticalAlign": "start",
           "wrap": true
@@ -23122,6 +23124,7 @@
       "label": "Text 26",
       "config": {
         "text": "<p style=\"text-align: center; line-height: 2;\"><strong style=\"color: var(--info-900); font-size: 24px;\">Open Space</strong></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "verticalAlign": "start",
           "wrap": true
@@ -24981,6 +24984,7 @@
       "label": "Text 28",
       "config": {
         "text": "<p style=\"text-align: center; line-height: 2;\"><strong style=\"color: var(--info-900); font-size: 24px;\">Mobility</strong></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "verticalAlign": "start",
           "wrap": true
@@ -29373,6 +29377,7 @@
       "label": "Text 37",
       "config": {
         "text": "<p style=\"text-align: left; line-height: 1;\"><strong style=\"letter-spacing: 0px; font-size: 36px; font-family: &quot;Avenir Next&quot;; color: rgb(177, 189, 203);\"> </strong><strong style=\"letter-spacing: 0px; font-size: 28px; font-family: &quot;Avenir Next&quot;; color: rgb(177, 189, 203);\">Age-Friendly Community(造就適老化社區)</strong></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "verticalAlign": "start",
           "wrap": true
@@ -29414,8 +29419,8 @@
                 "latestWkid": 3857,
                 "wkid": 102100
               },
-              "x": 12704234.30295689,
-              "y": 2556048.355329914
+              "x": 12703232.525273371,
+              "y": 2556054.3575851033
             }
           },
           "extent": {
@@ -29423,10 +29428,10 @@
               "latestWkid": 3857,
               "wkid": 102100
             },
-            "xmin": 12702858.436447721,
-            "ymin": 2555187.244433116,
-            "xmax": 12705610.16946606,
-            "ymax": 2556909.466226712
+            "xmin": 12701703.784707628,
+            "ymin": 2555461.9706158773,
+            "xmax": 12704761.265839115,
+            "ymax": 2556646.744554329
           },
           "rotation": 4.334553843301251,
           "viewType": "2d"
@@ -31966,6 +31971,7 @@
       "label": "Text 40",
       "config": {
         "text": "<p style=\"line-height: 2; text-align: center;\"><strong style=\"font-size: 24px; color: var(--info-900);\">Market</strong></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "verticalAlign": "start",
           "wrap": true
@@ -35804,6 +35810,7 @@
       "label": "Text 49",
       "config": {
         "text": "<p style=\"text-align: left; line-height: 1;\"><strong style=\"letter-spacing: 0px; font-size: 36px; font-family: &quot;Avenir Next&quot;; color: rgb(177, 189, 203);\"> </strong><strong style=\"letter-spacing: 0px; font-size: 28px; font-family: &quot;Avenir Next&quot;; color: rgb(177, 189, 203);\">Age-Friendly Community(造就適老化社區)</strong></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "verticalAlign": "start",
           "wrap": true
@@ -35845,8 +35852,8 @@
                 "latestWkid": 3857,
                 "wkid": 102100
               },
-              "x": 12704416.24821442,
-              "y": 2556102.5204243963
+              "x": 12703181.704084875,
+              "y": 2556019.0144383516
             }
           },
           "extent": {
@@ -35854,10 +35861,10 @@
               "latestWkid": 3857,
               "wkid": 102100
             },
-            "xmin": 12703040.38170525,
-            "ymin": 2555241.4095275984,
-            "xmax": 12705792.11472359,
-            "ymax": 2556963.631321194
+            "xmin": 12701652.963519132,
+            "ymin": 2555426.6274691257,
+            "xmax": 12704710.444650618,
+            "ymax": 2556611.4014075776
           },
           "rotation": 4.334553843301251,
           "viewType": "2d"
@@ -41856,6 +41863,7 @@
       "label": "Text 53",
       "config": {
         "text": "<p style=\"text-align: left;\"><strong style=\"font-size: 22px; color: var(--info-900);\">Public Services / Facilities: </strong><strong style=\"font-size: 22px; color: rgb(255, 255, 255);\"><exp data-uniqueid=\"f5655b67_a9e5_67ae_e1b6_d2e2438bbe9d\" data-dsid=\"dataSource_157-190f3ea6612-layer-91-dataView_1,dataSource_157-190f3ea6612-layer-91-dataView_2,dataSource_157-190f3ea6612-layer-91-dataView_3,dataSource_157-190f3ea6612-layer-91-dataView_4,dataSource_157-190f3ea6612-layer-91-dataView_5\" data-expression=\"%7B%22name%22%3A%22COUNT(%7BObjectId%7D)%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FUNCTION%22%2C%22exp%22%3A%22COUNT%22%7D%2C%7B%22type%22%3A%22OPERATOR%22%2C%22exp%22%3A%22(%22%7D%2C%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BObjectId%7D%22%2C%22dataSourceId%22%3A%22dataSource_157-190f3ea6612-layer-91-dataView_5%22%2C%22jimuFieldName%22%3A%22ObjectId%22%7D%2C%7B%22type%22%3A%22OPERATOR%22%2C%22exp%22%3A%22)%22%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿COUNT({ObjectId})﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿</span>﻿</exp></strong><strong style=\"font-size: 22px; color: var(--info-900);\"> </strong></p><p style=\"text-align: left;\"><strong style=\"font-size: 22px; color: var(--info-900);\">Religion:</strong><strong style=\"font-size: 22px; color: rgb(255, 255, 255);\"><exp data-uniqueid=\"f9f24675_0716_9fc7_a79a_35ed4382a127\" data-dsid=\"dataSource_157-190f3ea6612-layer-91-dataView_1,dataSource_157-190f3ea6612-layer-91-dataView_2,dataSource_157-190f3ea6612-layer-91-dataView_3,dataSource_157-190f3ea6612-layer-91-dataView_4,dataSource_157-190f3ea6612-layer-91-dataView_5,dataSource_157-190f3ea6612-layer-91-dataView_6,dataSource_157-190f3ea6612-layer-91-dataView_7,dataSource_157-190f3ea6612-layer-91-dataView_8\" data-expression=\"%7B%22name%22%3A%22COUNT(%7BObjectId%7D)%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FUNCTION%22%2C%22exp%22%3A%22COUNT%22%7D%2C%7B%22type%22%3A%22OPERATOR%22%2C%22exp%22%3A%22(%22%7D%2C%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BObjectId%7D%22%2C%22dataSourceId%22%3A%22dataSource_157-190f3ea6612-layer-91-dataView_6%22%2C%22jimuFieldName%22%3A%22ObjectId%22%7D%2C%7B%22type%22%3A%22OPERATOR%22%2C%22exp%22%3A%22)%22%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿COUNT({ObjectId})﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿</span>﻿</exp></strong><strong style=\"font-size: 22px; color: var(--info-900);\">  </strong></p><p style=\"text-align: left;\"><strong style=\"font-size: 22px; color: var(--info-900);\">Transportation:</strong><strong style=\"font-size: 22px; color: rgb(255, 255, 255);\"><exp data-uniqueid=\"b6639782_39cb_731c_8bca_9302f49f0347\" data-dsid=\"dataSource_157-190f3ea6612-layer-91-dataView_1,dataSource_157-190f3ea6612-layer-91-dataView_2,dataSource_157-190f3ea6612-layer-91-dataView_3,dataSource_157-190f3ea6612-layer-91-dataView_4,dataSource_157-190f3ea6612-layer-91-dataView_5,dataSource_157-190f3ea6612-layer-91-dataView_6,dataSource_157-190f3ea6612-layer-91-dataView_7,dataSource_157-190f3ea6612-layer-91-dataView_8\" data-expression=\"%7B%22name%22%3A%22COUNT(%7BObjectId%7D)%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FUNCTION%22%2C%22exp%22%3A%22COUNT%22%7D%2C%7B%22type%22%3A%22OPERATOR%22%2C%22exp%22%3A%22(%22%7D%2C%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BObjectId%7D%22%2C%22dataSourceId%22%3A%22dataSource_157-190f3ea6612-layer-91-dataView_7%22%2C%22jimuFieldName%22%3A%22ObjectId%22%7D%2C%7B%22type%22%3A%22OPERATOR%22%2C%22exp%22%3A%22)%22%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿COUNT({ObjectId})﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿</span>﻿</exp></strong><strong style=\"font-size: 22px; color: var(--info-900);\">  </strong></p><p style=\"text-align: left;\"><strong style=\"font-size: 22px; color: var(--info-900);\">Tourism:</strong><strong style=\"font-size: 22px; color: rgb(255, 255, 255);\"><exp data-uniqueid=\"aa4fa2df_a7ec_d84e_447d_4f4cffd57d01\" data-dsid=\"dataSource_157-190f3ea6612-layer-91-dataView_1,dataSource_157-190f3ea6612-layer-91-dataView_2,dataSource_157-190f3ea6612-layer-91-dataView_3,dataSource_157-190f3ea6612-layer-91-dataView_4,dataSource_157-190f3ea6612-layer-91-dataView_5,dataSource_157-190f3ea6612-layer-91-dataView_6,dataSource_157-190f3ea6612-layer-91-dataView_7,dataSource_157-190f3ea6612-layer-91-dataView_8\" data-expression=\"%7B%22name%22%3A%22COUNT(%7BObjectId%7D)%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FUNCTION%22%2C%22exp%22%3A%22COUNT%22%7D%2C%7B%22type%22%3A%22OPERATOR%22%2C%22exp%22%3A%22(%22%7D%2C%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BObjectId%7D%22%2C%22dataSourceId%22%3A%22dataSource_157-190f3ea6612-layer-91-dataView_8%22%2C%22jimuFieldName%22%3A%22ObjectId%22%7D%2C%7B%22type%22%3A%22OPERATOR%22%2C%22exp%22%3A%22)%22%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿COUNT({ObjectId})﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿</span>﻿</exp></strong><strong style=\"font-size: 22px; color: var(--info-900);\">  </strong></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "verticalAlign": "start",
           "wrap": true
@@ -42017,6 +42025,7 @@
       "label": "Text 54",
       "config": {
         "text": "<p style=\"text-align: left;\"><strong style=\"font-size: 22px; color: var(--info-900);\">Community Facilities : </strong><strong style=\"font-size: 22px; color: rgb(255, 255, 255);\"><exp data-uniqueid=\"ffd464c5_aca0_78d4_3ede_bd945ebadaf0\" data-dsid=\"dataSource_157-190f3ea6612-layer-91-dataView_1,dataSource_157-190f3ea6612-layer-91-dataView_2\" data-expression=\"%7B%22name%22%3A%22COUNT(%7BCLASS%7D)%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FUNCTION%22%2C%22exp%22%3A%22COUNT%22%7D%2C%7B%22type%22%3A%22OPERATOR%22%2C%22exp%22%3A%22(%22%7D%2C%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BObjectId%7D%22%2C%22dataSourceId%22%3A%22dataSource_157-190f3ea6612-layer-91-dataView_1%22%2C%22jimuFieldName%22%3A%22ObjectId%22%7D%2C%7B%22type%22%3A%22OPERATOR%22%2C%22exp%22%3A%22)%22%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿COUNT({CLASS})﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿</span>﻿</exp> </strong><strong style=\"font-size: 22px; color: var(--info-900);\">   </strong></p><p style=\"text-align: left;\"><strong style=\"font-size: 22px; color: var(--info-900);\">Education: </strong><strong style=\"font-size: 22px;\"><exp data-uniqueid=\"7323cd5b_7a72_71ed_853b_18c22bf73e4d\" data-dsid=\"dataSource_157-190f3ea6612-layer-91-dataView_1,dataSource_157-190f3ea6612-layer-91-dataView_2,dataSource_157-190f3ea6612-layer-91-dataView_3,dataSource_157-190f3ea6612-layer-91-dataView_4,dataSource_157-190f3ea6612-layer-91-selection\" data-expression=\"%7B%22name%22%3A%22COUNT(%7BObjectId%7D)%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FUNCTION%22%2C%22exp%22%3A%22COUNT%22%7D%2C%7B%22type%22%3A%22OPERATOR%22%2C%22exp%22%3A%22(%22%7D%2C%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BObjectId%7D%22%2C%22dataSourceId%22%3A%22dataSource_157-190f3ea6612-layer-91-dataView_2%22%2C%22jimuFieldName%22%3A%22ObjectId%22%7D%2C%7B%22type%22%3A%22OPERATOR%22%2C%22exp%22%3A%22)%22%7D%5D%7D\">﻿<span contenteditable=\"false\">COUNT({ObjectId})</span>﻿</exp></strong> </p><p style=\"text-align: left;\"><strong style=\"font-size: 22px; color: var(--info-900);\">Recreation:</strong><strong style=\"font-size: 22px; color: rgb(255, 255, 255);\"><exp data-uniqueid=\"d77ecd3a_63b3_7962_82cb_c494391bedfd\" data-dsid=\"dataSource_157-190f3ea6612-layer-91-dataView_1,dataSource_157-190f3ea6612-layer-91-dataView_2,dataSource_157-190f3ea6612-layer-91-dataView_3\" data-expression=\"%7B%22name%22%3A%22COUNT(%7BObjectId%7D)%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FUNCTION%22%2C%22exp%22%3A%22COUNT%22%7D%2C%7B%22type%22%3A%22OPERATOR%22%2C%22exp%22%3A%22(%22%7D%2C%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BObjectId%7D%22%2C%22dataSourceId%22%3A%22dataSource_157-190f3ea6612-layer-91-dataView_3%22%2C%22jimuFieldName%22%3A%22ObjectId%22%7D%2C%7B%22type%22%3A%22OPERATOR%22%2C%22exp%22%3A%22)%22%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿COUNT({ObjectId})﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿</span>﻿</exp></strong><strong style=\"font-size: 22px; color: var(--info-900);\"> </strong></p><p style=\"text-align: left;\"><strong style=\"font-size: 22px; color: var(--info-900);\">Medical:</strong><strong style=\"font-size: 22px; color: rgb(255, 255, 255);\"><exp data-uniqueid=\"d6d6dcc5_580c_fba9_18c2_1ba25dbf9062\" data-dsid=\"dataSource_157-190f3ea6612-layer-91-dataView_1,dataSource_157-190f3ea6612-layer-91-dataView_2,dataSource_157-190f3ea6612-layer-91-dataView_3,dataSource_157-190f3ea6612-layer-91-dataView_4\" data-expression=\"%7B%22name%22%3A%22COUNT(%7BObjectId%7D)%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FUNCTION%22%2C%22exp%22%3A%22COUNT%22%7D%2C%7B%22type%22%3A%22OPERATOR%22%2C%22exp%22%3A%22(%22%7D%2C%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BObjectId%7D%22%2C%22dataSourceId%22%3A%22dataSource_157-190f3ea6612-layer-91-dataView_4%22%2C%22jimuFieldName%22%3A%22ObjectId%22%7D%2C%7B%22type%22%3A%22OPERATOR%22%2C%22exp%22%3A%22)%22%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿COUNT({ObjectId})﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿</span>﻿</exp> </strong></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "verticalAlign": "start",
           "wrap": true
@@ -42082,6 +42091,7 @@
       "label": "Text 55",
       "config": {
         "text": "<p style=\"text-align: center;\"><strong style=\"font-size: 18px; color: var(--info-900);\">POI</strong></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "verticalAlign": "start",
           "wrap": true
@@ -42438,6 +42448,7 @@
       "label": "Text 62",
       "config": {
         "text": "<p style=\"text-align: center; line-height: 2.3;\"><strong style=\"color: var(--info-900); font-size: 18px;\"><exp data-uniqueid=\"3728210f_2a03_b0b1_873f_2aebd8de5400\" data-dsid=\"dataSource_157-190f3ea6612-layer-91-dataView_6\" data-expression=\"%7B%22name%22%3A%22COUNT(%7BObjectId%7D)%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FUNCTION%22%2C%22exp%22%3A%22COUNT%22%7D%2C%7B%22type%22%3A%22OPERATOR%22%2C%22exp%22%3A%22(%22%7D%2C%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BObjectId%7D%22%2C%22dataSourceId%22%3A%22dataSource_157-190f3ea6612-layer-91-dataView_6%22%2C%22jimuFieldName%22%3A%22ObjectId%22%7D%2C%7B%22type%22%3A%22OPERATOR%22%2C%22exp%22%3A%22)%22%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿COUNT({ObjectId})﻿﻿</span>﻿</exp> </strong></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "verticalAlign": "start",
           "wrap": true
@@ -42469,6 +42480,7 @@
       "label": "Text 71",
       "config": {
         "text": "<p style=\"text-align: center; line-height: 2.3;\"><strong style=\"color: var(--info-900); font-size: 18px;\"><exp data-uniqueid=\"d0ecf54c_aec1_5cf6_12ce_e00b6a204502\" data-dsid=\"dataSource_157-190f3ea6612-layer-91-dataView_7\" data-expression=\"%7B%22name%22%3A%22COUNT(%7BObjectId%7D)%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FUNCTION%22%2C%22exp%22%3A%22COUNT%22%7D%2C%7B%22type%22%3A%22OPERATOR%22%2C%22exp%22%3A%22(%22%7D%2C%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BObjectId%7D%22%2C%22dataSourceId%22%3A%22dataSource_157-190f3ea6612-layer-91-dataView_7%22%2C%22jimuFieldName%22%3A%22ObjectId%22%7D%2C%7B%22type%22%3A%22OPERATOR%22%2C%22exp%22%3A%22)%22%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿COUNT({ObjectId})﻿﻿</span>﻿</exp> </strong></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "verticalAlign": "start",
           "wrap": true
@@ -42500,6 +42512,7 @@
       "label": "Text 72",
       "config": {
         "text": "<p style=\"text-align: center; line-height: 2.3;\"><strong style=\"color: var(--info-900); font-size: 18px;\"><exp data-uniqueid=\"85c55a25_bbef_f8d4_41ec_6136c72fa111\" data-dsid=\"dataSource_157-190f3ea6612-layer-91-dataView_2\" data-expression=\"%7B%22name%22%3A%22COUNT(%7BObjectId%7D)%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FUNCTION%22%2C%22exp%22%3A%22COUNT%22%7D%2C%7B%22type%22%3A%22OPERATOR%22%2C%22exp%22%3A%22(%22%7D%2C%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BObjectId%7D%22%2C%22dataSourceId%22%3A%22dataSource_157-190f3ea6612-layer-91-dataView_2%22%2C%22jimuFieldName%22%3A%22ObjectId%22%7D%2C%7B%22type%22%3A%22OPERATOR%22%2C%22exp%22%3A%22)%22%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿COUNT({ObjectId})﻿</span>﻿</exp> </strong></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "verticalAlign": "start",
           "wrap": true
@@ -42531,6 +42544,7 @@
       "label": "Text 73",
       "config": {
         "text": "<p style=\"text-align: center; line-height: 2.3;\"><strong style=\"color: var(--info-900); font-size: 18px;\"><exp data-uniqueid=\"b8dc6912_3525_b318_fc93_2a77bc32ce23\" data-dsid=\"dataSource_157-190f3ea6612-layer-91-dataView_8\" data-expression=\"%7B%22name%22%3A%22COUNT(%7BObjectId%7D)%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FUNCTION%22%2C%22exp%22%3A%22COUNT%22%7D%2C%7B%22type%22%3A%22OPERATOR%22%2C%22exp%22%3A%22(%22%7D%2C%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BObjectId%7D%22%2C%22dataSourceId%22%3A%22dataSource_157-190f3ea6612-layer-91-dataView_8%22%2C%22jimuFieldName%22%3A%22ObjectId%22%7D%2C%7B%22type%22%3A%22OPERATOR%22%2C%22exp%22%3A%22)%22%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿COUNT({ObjectId})﻿﻿</span>﻿</exp> </strong></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "verticalAlign": "start",
           "wrap": true
@@ -42562,6 +42576,7 @@
       "label": "Text 78",
       "config": {
         "text": "<p style=\"text-align: center; line-height: 2.3;\"><strong style=\"color: var(--info-900); font-size: 18px;\"><exp data-uniqueid=\"4f09a8ee_e60c_4a51_408c_9779fdac2eaf\" data-dsid=\"dataSource_157-190f3ea6612-layer-91-dataView_11\" data-expression=\"%7B%22name%22%3A%22COUNT(%7BObjectId%7D)%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FUNCTION%22%2C%22exp%22%3A%22COUNT%22%7D%2C%7B%22type%22%3A%22OPERATOR%22%2C%22exp%22%3A%22(%22%7D%2C%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BObjectId%7D%22%2C%22dataSourceId%22%3A%22dataSource_157-190f3ea6612-layer-91-dataView_11%22%2C%22jimuFieldName%22%3A%22ObjectId%22%7D%2C%7B%22type%22%3A%22OPERATOR%22%2C%22exp%22%3A%22)%22%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿COUNT({ObjectId})﻿﻿</span>﻿</exp>  </strong></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "verticalAlign": "start",
           "wrap": true
@@ -42593,6 +42608,7 @@
       "label": "Text 79",
       "config": {
         "text": "<p style=\"text-align: center; line-height: 2.3;\"><strong style=\"font-size: 18px; color: var(--info-900);\"><exp data-uniqueid=\"a92e5755_aa59_1ac2_5f0e_5a5d7a7dec58\" data-dsid=\"dataSource_157-190f3ea6612-layer-91,dataSource_157-190f3ea6612-layer-91-dataView_9\" data-expression=\"%7B%22name%22%3A%22COUNT(%7BObjectId%7D)%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FUNCTION%22%2C%22exp%22%3A%22COUNT%22%7D%2C%7B%22type%22%3A%22OPERATOR%22%2C%22exp%22%3A%22(%22%7D%2C%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BObjectId%7D%22%2C%22dataSourceId%22%3A%22dataSource_157-190f3ea6612-layer-91-dataView_9%22%2C%22jimuFieldName%22%3A%22ObjectId%22%7D%2C%7B%22type%22%3A%22OPERATOR%22%2C%22exp%22%3A%22)%22%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿COUNT({ObjectId})﻿﻿</span>﻿</exp> </strong></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "verticalAlign": "start",
           "wrap": true
@@ -42644,6 +42660,7 @@
       "label": "information",
       "config": {
         "text": "<p><strong style=\"font-size: 18px; color: var(--info-700);\">1. Safety </strong></p><p><span style=\"font-size: 18px; color: var(--info-900);\">Design spaces to minimize risks, ensuring a secure environment for movement across all ages.</span><span style=\"font-size: 18px;\"> &nbsp; </span></p><p><br></p><p><strong style=\"font-size: 18px; color: var(--info-700);\">2. Comfortability </strong></p><p><span style=\"font-size: 18px; color: var(--info-900);\">Create pleasant, welcoming areas that promote relaxation for everyone, enhancing community interaction. &nbsp;</span></p><p><br></p><p><strong style=\"font-size: 18px; color: var(--info-700);\"> 3. Accessibility </strong></p><p><span style=\"font-size: 18px; color: var(--info-900);\">Ensure easy navigation for all physical and cognitive abilities, with accessible transport and facilities.</span><span style=\"font-size: 18px; color: var(--info-800);\"> &nbsp;</span></p><p><br></p><p><strong style=\"font-size: 18px; color: var(--info-700);\">4. Convenience </strong></p><p><span style=\"font-size: 18px; color: var(--info-900);\">Provide readily available services and amenities for all ages with minimal effort and disruption. &nbsp; </span></p><p><br></p><p><strong style=\"font-size: 18px; color: var(--info-700);\">5. Legibility </strong></p><p><span style=\"font-size: 18px; color: var(--info-900);\">Create understandable spaces using clear layouts and signage for easy navigation. &nbsp; </span></p><p><br></p><p><strong style=\"font-size: 18px; color: var(--info-700);\">6. Distinctiveness </strong></p><p><span style=\"font-size: 18px; color: var(--info-900);\">Integrate unique characteristics to help individuals identify different areas.&nbsp;</span></p><p><br></p><p><strong style=\"font-size: 18px; color: var(--info-700);\">7. Familiarity </strong></p><p><span style=\"font-size: 18px; color: var(--info-900);\">Incorporate recognizable elements for comfort and orientation across all ages. </span></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "verticalAlign": "start",
           "wrap": true
@@ -42955,6 +42972,7 @@
       "label": "information 2",
       "config": {
         "text": "<p><span style=\"font-size: 18px; color: var(--info-700);\">1. Safety </span></p><p><span style=\"font-size: 18px; color: var(--info-900);\">Design spaces to minimize risks, ensuring a secure environment for movement across all ages.</span><span style=\"font-size: 18px;\"> &nbsp; </span></p><p><br></p><p><span style=\"font-size: 18px; color: var(--info-700);\">2. Comfortability </span></p><p><span style=\"font-size: 18px; color: var(--info-900);\">Create pleasant, welcoming areas that promote relaxation for everyone, enhancing community interaction. &nbsp;</span></p><p><br></p><p><span style=\"font-size: 18px; color: var(--info-700);\"> 3. Accessibility </span></p><p><span style=\"font-size: 18px; color: var(--info-900);\">Ensure easy navigation for all physical and cognitive abilities, with accessible transport and facilities.</span><span style=\"font-size: 18px; color: var(--info-800);\"> &nbsp;</span></p><p><br></p><p><span style=\"font-size: 18px; color: var(--info-700);\">4. Convenience </span></p><p><span style=\"font-size: 18px; color: var(--info-900);\">Provide readily available services and amenities for all ages with minimal effort and disruption. &nbsp; </span></p><p><br></p><p><span style=\"font-size: 18px; color: var(--info-700);\">5. Legibility </span></p><p><span style=\"font-size: 18px; color: var(--info-900);\">Create understandable spaces using clear layouts and signage for easy navigation. &nbsp; </span></p><p><br></p><p><span style=\"font-size: 18px; color: var(--info-700);\">6. Distinctiveness </span></p><p><span style=\"font-size: 18px; color: var(--info-900);\">Integrate unique characteristics to help individuals identify different areas.&nbsp;</span></p><p><br></p><p><span style=\"font-size: 18px; color: var(--info-700);\">7. Familiarity </span></p><p><span style=\"font-size: 18px; color: var(--info-900);\">Incorporate recognizable elements for comfort and orientation across all ages. </span></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "verticalAlign": "start",
           "wrap": true
@@ -44690,6 +44708,7 @@
       "label": "information 4",
       "config": {
         "text": "<p><strong style=\"font-size: 18px; color: var(--info-700);\">1. Safety </strong></p><p><span style=\"font-size: 18px; color: var(--info-900);\">Design spaces to minimize risks, ensuring a secure environment for movement across all ages.</span><span style=\"font-size: 18px;\"> &nbsp; </span></p><p><br></p><p><strong style=\"font-size: 18px; color: var(--info-700);\">2. Comfortability </strong></p><p><span style=\"font-size: 18px; color: var(--info-900);\">Create pleasant, welcoming areas that promote relaxation for everyone, enhancing community interaction. &nbsp;</span></p><p><br></p><p><strong style=\"font-size: 18px; color: var(--info-700);\"> 3. Accessibility </strong></p><p><span style=\"font-size: 18px; color: var(--info-900);\">Ensure easy navigation for all physical and cognitive abilities, with accessible transport and facilities.</span><span style=\"font-size: 18px; color: var(--info-800);\"> &nbsp;</span></p><p><br></p><p><strong style=\"font-size: 18px; color: var(--info-700);\">4. Convenience </strong></p><p><span style=\"font-size: 18px; color: var(--info-900);\">Provide readily available services and amenities for all ages with minimal effort and disruption. &nbsp; </span></p><p><br></p><p><strong style=\"font-size: 18px; color: var(--info-700);\">5. Legibility </strong></p><p><span style=\"font-size: 18px; color: var(--info-900);\">Create understandable spaces using clear layouts and signage for easy navigation. &nbsp; </span></p><p><br></p><p><strong style=\"font-size: 18px; color: var(--info-700);\">6. Distinctiveness </strong></p><p><span style=\"font-size: 18px; color: var(--info-900);\">Integrate unique characteristics to help individuals identify different areas.&nbsp;</span></p><p><br></p><p><strong style=\"font-size: 18px; color: var(--info-700);\">7. Familiarity </strong></p><p><span style=\"font-size: 18px; color: var(--info-900);\">Incorporate recognizable elements for comfort and orientation across all ages. </span></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "verticalAlign": "start",
           "wrap": true
@@ -48052,6 +48071,7 @@
       "label": "Text 116",
       "config": {
         "text": "<p style=\"text-align: center; line-height: 2.3;\"><strong style=\"color: var(--info-900); font-size: 18px;\"><exp data-uniqueid=\"7baef45f_4a58_2cee_bbac_9bb0c3369d39\" data-dsid=\"dataSource_157-190f3ea6612-layer-91-dataView_1\" data-expression=\"%7B%22name%22%3A%22COUNT(%7BObjectId%7D)%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FUNCTION%22%2C%22exp%22%3A%22COUNT%22%7D%2C%7B%22type%22%3A%22OPERATOR%22%2C%22exp%22%3A%22(%22%7D%2C%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BObjectId%7D%22%2C%22dataSourceId%22%3A%22dataSource_157-190f3ea6612-layer-91-dataView_1%22%2C%22jimuFieldName%22%3A%22ObjectId%22%7D%2C%7B%22type%22%3A%22OPERATOR%22%2C%22exp%22%3A%22)%22%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿COUNT({ObjectId})﻿﻿</span>﻿</exp></strong> </p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "verticalAlign": "start",
           "wrap": true
@@ -48195,6 +48215,7 @@
       "label": "Text 118",
       "config": {
         "text": "<p style=\"text-align: center; line-height: 2.3;\"><strong style=\"color: var(--info-900); font-size: 18px;\"><exp data-uniqueid=\"60af2fe3_c1d4_deed_6307_1d7a146d20a1\" data-dsid=\"dataSource_157-190f3ea6612-layer-91-dataView_4\" data-expression=\"%7B%22name%22%3A%22COUNT(%7BObjectId%7D)%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FUNCTION%22%2C%22exp%22%3A%22COUNT%22%7D%2C%7B%22type%22%3A%22OPERATOR%22%2C%22exp%22%3A%22(%22%7D%2C%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BObjectId%7D%22%2C%22dataSourceId%22%3A%22dataSource_157-190f3ea6612-layer-91-dataView_4%22%2C%22jimuFieldName%22%3A%22ObjectId%22%7D%2C%7B%22type%22%3A%22OPERATOR%22%2C%22exp%22%3A%22)%22%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿COUNT({ObjectId})﻿﻿</span>﻿</exp> </strong><span style=\"font-size: 13px;\">﻿</span></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "verticalAlign": "start",
           "wrap": true
@@ -48226,6 +48247,7 @@
       "label": "Text 119",
       "config": {
         "text": "<p style=\"text-align: center; line-height: 2.3;\"><strong style=\"color: var(--info-900); font-size: 18px;\"><exp data-uniqueid=\"f4ab334e_2011_689e_d885_5544ac6d3ad7\" data-dsid=\"dataSource_157-190f3ea6612-layer-91-dataView_3\" data-expression=\"%7B%22name%22%3A%22COUNT(%7BObjectId%7D)%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FUNCTION%22%2C%22exp%22%3A%22COUNT%22%7D%2C%7B%22type%22%3A%22OPERATOR%22%2C%22exp%22%3A%22(%22%7D%2C%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BObjectId%7D%22%2C%22dataSourceId%22%3A%22dataSource_157-190f3ea6612-layer-91-dataView_3%22%2C%22jimuFieldName%22%3A%22ObjectId%22%7D%2C%7B%22type%22%3A%22OPERATOR%22%2C%22exp%22%3A%22)%22%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿COUNT({ObjectId})﻿</span>﻿</exp> </strong></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "verticalAlign": "start",
           "wrap": true
@@ -48257,6 +48279,7 @@
       "label": "Text 120",
       "config": {
         "text": "<p style=\"text-align: center; line-height: 2.3;\"><strong style=\"color: var(--info-900); font-size: 18px;\"><exp data-uniqueid=\"f886f00d_40f7_463f_eb87_bd7974070cf7\" data-dsid=\"dataSource_157-190f3ea6612-layer-91-dataView_5\" data-expression=\"%7B%22name%22%3A%22COUNT(%7BObjectId%7D)%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FUNCTION%22%2C%22exp%22%3A%22COUNT%22%7D%2C%7B%22type%22%3A%22OPERATOR%22%2C%22exp%22%3A%22(%22%7D%2C%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BObjectId%7D%22%2C%22dataSourceId%22%3A%22dataSource_157-190f3ea6612-layer-91-dataView_5%22%2C%22jimuFieldName%22%3A%22ObjectId%22%7D%2C%7B%22type%22%3A%22OPERATOR%22%2C%22exp%22%3A%22)%22%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿COUNT({ObjectId})﻿﻿</span>﻿</exp> </strong></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "verticalAlign": "start",
           "wrap": true
@@ -48332,6 +48355,7 @@
       "label": "Text 124",
       "config": {
         "text": "<p style=\"text-align: center; line-height: 2.3;\"><strong style=\"font-size: 18px; color: var(--info-900);\"><exp data-uniqueid=\"a5d5ad82_ed75_c5fc_9c54_37c992ddf8c5\" data-dsid=\"dataSource_157-190f3ea6612-layer-91-dataView_10\" data-expression=\"%7B%22name%22%3A%22COUNT(%7BObjectId%7D)%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FUNCTION%22%2C%22exp%22%3A%22COUNT%22%7D%2C%7B%22type%22%3A%22OPERATOR%22%2C%22exp%22%3A%22(%22%7D%2C%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BObjectId%7D%22%2C%22dataSourceId%22%3A%22dataSource_157-190f3ea6612-layer-91-dataView_10%22%2C%22jimuFieldName%22%3A%22ObjectId%22%7D%2C%7B%22type%22%3A%22OPERATOR%22%2C%22exp%22%3A%22)%22%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿COUNT({ObjectId})﻿﻿</span>﻿</exp> </strong></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "verticalAlign": "start",
           "wrap": true
@@ -48449,6 +48473,7 @@
       "label": "POI",
       "config": {
         "text": "<p><strong style=\"color: var(--info-700); font-size: 18px;\">1. Safety </strong></p><p><span style=\"color: var(--info-900); font-size: 18px;\">Design spaces to minimize risks, ensuring a secure environment for movement across all ages.</span><span style=\"font-size: 18px;\"> &nbsp; </span></p><p><br></p><p><strong style=\"font-size: 18px; color: var(--info-700);\">1.\tCommunity Services / Facilities \t</strong></p><p><span style=\"font-size: 18px; color: var(--info-900);\">Facilities and services that enhance social engagement and provide social support and community services.</span></p><p><br></p><p><strong style=\"font-size: 18px; color: var(--info-700);\">2.\tHealth Care Services / Facilities\t</strong></p><p><span style=\"font-size: 18px; color: var(--info-900);\">Health care services offering essential medical care and support for maintaining the health and well-being of the community, such as hospitals, clinics, pharmacies, and other health-related services.</span></p><p><br></p><p><strong style=\"font-size: 18px; color: var(--info-700);\">3.\tPublic Services\t</strong></p><p><span style=\"font-size: 18px; color: var(--info-900);\">Services provided by the government such as police, fire department, waste management, government offices and other essential civic utilities that support the infrastructure of the community.</span></p><p><br></p><p><strong style=\"font-size: 18px; color: var(--info-700);\">4.\tCare Centre / Care Homes\t</strong></p><p><span style=\"font-size: 18px; color: var(--info-900);\">Facilities that provide specialised care for the needed groups such as elderly, disabled, or other individuals requiring personal care.</span></p><p><br></p><p><strong style=\"font-size: 18px; color: var(--info-700);\">5.\tUtilities \t</strong></p><p><span style=\"color: var(--info-900); font-size: 18px;\">Basic services that support daily living, including electricity substations, Liquefied Petroleum Gas filing stations, petrol stations and electric vehicle charging spots. </span></p><p><br></p><p><strong style=\"font-size: 18px; color: var(--info-700);\">6.\tRetail / Market / Mall\t</strong></p><p><span style=\"font-size: 18px; color: var(--info-900);\">Retail options that cater to the shopping and dining needs of the community, including retail stores, wet market, supermarkets, convenience stores shopping malls and wholesale markets.</span></p><p><br></p><p><strong style=\"font-size: 18px; color: var(--info-700);\">7.\tEducation</strong><span style=\"font-size: 18px;\">\t</span></p><p><span style=\"font-size: 18px; color: var(--info-900);\">Educational institutions such as kindergartens, schools, universities, and training centres that provide learning opportunities and educational development.</span></p><p><br></p><p><strong style=\"font-size: 18px; color: var(--info-700);\">8.\tReligion </strong><span style=\"font-size: 18px;\"> \t</span></p><p><span style=\"font-size: 18px; color: var(--info-900);\">Facilities and services that cater to the spiritual and religious needs of the community, including churches, mosques and temple.</span></p><p><br></p><p><strong style=\"font-size: 18px; color: var(--info-700);\">9.\tTransportation\t</strong></p><p><span style=\"font-size: 18px; color: var(--info-900);\">Public transport and associated facilities including buses, trains, taxis and public transport interchanges.</span></p><p><br></p><p><strong style=\"font-size: 18px; color: var(--info-700);\">10.\tArts / Culture / Tourism</strong><span style=\"font-size: 18px; color: var(--info-700);\">\t</span></p><p><span style=\"font-size: 18px; color: var(--info-900);\">Venues and facilities that celebrate arts and culture and supports tourism activities, including museums, theatres, galleries, country parks, tourist attractions and tourist accommodations.</span></p><p><br></p><p><strong style=\"font-size: 18px; color: var(--info-700);\">11. Leisure / Recreation</strong><span style=\"font-size: 18px; color: var(--info-700);\">\t</span></p><p><span style=\"font-size: 18px; color: var(--info-900);\">Facilities and areas for leisure and recreation, promoting relaxation and enjoyment of citizens, including parks, playgrounds, sports complexes, beaches and cinemas</span></p><p><br></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "verticalAlign": "start",
           "wrap": true
@@ -50006,6 +50031,7 @@
       "label": "Text 136",
       "config": {
         "text": "<p style=\"text-align: center; line-height: 2.3;\"><strong style=\"color: var(--info-900); font-size: 18px;\"><exp data-uniqueid=\"d0ecf54c_aec1_5cf6_12ce_e00b6a204502\" data-dsid=\"dataSource_157-190f3ea6612-layer-91-dataView_7\" data-expression=\"%7B%22name%22%3A%22COUNT(%7BObjectId%7D)%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FUNCTION%22%2C%22exp%22%3A%22COUNT%22%7D%2C%7B%22type%22%3A%22OPERATOR%22%2C%22exp%22%3A%22(%22%7D%2C%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BObjectId%7D%22%2C%22dataSourceId%22%3A%22dataSource_157-190f3ea6612-layer-91-dataView_7%22%2C%22jimuFieldName%22%3A%22ObjectId%22%7D%2C%7B%22type%22%3A%22OPERATOR%22%2C%22exp%22%3A%22)%22%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿COUNT({ObjectId})﻿﻿</span>﻿</exp> </strong></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "verticalAlign": "start",
           "wrap": true
@@ -50037,6 +50063,7 @@
       "label": "Text 137",
       "config": {
         "text": "<p style=\"text-align: center; line-height: 2.3;\"><strong style=\"color: var(--info-900); font-size: 18px;\"><exp data-uniqueid=\"85c55a25_bbef_f8d4_41ec_6136c72fa111\" data-dsid=\"dataSource_157-190f3ea6612-layer-91-dataView_2\" data-expression=\"%7B%22name%22%3A%22COUNT(%7BObjectId%7D)%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FUNCTION%22%2C%22exp%22%3A%22COUNT%22%7D%2C%7B%22type%22%3A%22OPERATOR%22%2C%22exp%22%3A%22(%22%7D%2C%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BObjectId%7D%22%2C%22dataSourceId%22%3A%22dataSource_157-190f3ea6612-layer-91-dataView_2%22%2C%22jimuFieldName%22%3A%22ObjectId%22%7D%2C%7B%22type%22%3A%22OPERATOR%22%2C%22exp%22%3A%22)%22%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿COUNT({ObjectId})﻿</span>﻿</exp> </strong></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "verticalAlign": "start",
           "wrap": true
@@ -50068,6 +50095,7 @@
       "label": "Text 138",
       "config": {
         "text": "<p style=\"text-align: center; line-height: 2.3;\"><strong style=\"color: var(--info-900); font-size: 18px;\"><exp data-uniqueid=\"b8dc6912_3525_b318_fc93_2a77bc32ce23\" data-dsid=\"dataSource_157-190f3ea6612-layer-91-dataView_8\" data-expression=\"%7B%22name%22%3A%22COUNT(%7BObjectId%7D)%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FUNCTION%22%2C%22exp%22%3A%22COUNT%22%7D%2C%7B%22type%22%3A%22OPERATOR%22%2C%22exp%22%3A%22(%22%7D%2C%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BObjectId%7D%22%2C%22dataSourceId%22%3A%22dataSource_157-190f3ea6612-layer-91-dataView_8%22%2C%22jimuFieldName%22%3A%22ObjectId%22%7D%2C%7B%22type%22%3A%22OPERATOR%22%2C%22exp%22%3A%22)%22%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿COUNT({ObjectId})﻿﻿</span>﻿</exp> </strong></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "verticalAlign": "start",
           "wrap": true
@@ -50099,6 +50127,7 @@
       "label": "Text 139",
       "config": {
         "text": "<p style=\"text-align: center; line-height: 2.3;\"><strong style=\"color: var(--info-900); font-size: 18px;\"><exp data-uniqueid=\"3728210f_2a03_b0b1_873f_2aebd8de5400\" data-dsid=\"dataSource_157-190f3ea6612-layer-91-dataView_6\" data-expression=\"%7B%22name%22%3A%22COUNT(%7BObjectId%7D)%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FUNCTION%22%2C%22exp%22%3A%22COUNT%22%7D%2C%7B%22type%22%3A%22OPERATOR%22%2C%22exp%22%3A%22(%22%7D%2C%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BObjectId%7D%22%2C%22dataSourceId%22%3A%22dataSource_157-190f3ea6612-layer-91-dataView_6%22%2C%22jimuFieldName%22%3A%22ObjectId%22%7D%2C%7B%22type%22%3A%22OPERATOR%22%2C%22exp%22%3A%22)%22%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿COUNT({ObjectId})﻿﻿</span>﻿</exp> </strong></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "verticalAlign": "start",
           "wrap": true
@@ -50130,6 +50159,7 @@
       "label": "Text 140",
       "config": {
         "text": "<p style=\"text-align: center; line-height: 2.3;\"><strong style=\"font-size: 18px; color: var(--info-900);\"><exp data-uniqueid=\"a92e5755_aa59_1ac2_5f0e_5a5d7a7dec58\" data-dsid=\"dataSource_157-190f3ea6612-layer-91,dataSource_157-190f3ea6612-layer-91-dataView_9\" data-expression=\"%7B%22name%22%3A%22COUNT(%7BObjectId%7D)%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FUNCTION%22%2C%22exp%22%3A%22COUNT%22%7D%2C%7B%22type%22%3A%22OPERATOR%22%2C%22exp%22%3A%22(%22%7D%2C%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BObjectId%7D%22%2C%22dataSourceId%22%3A%22dataSource_157-190f3ea6612-layer-91-dataView_9%22%2C%22jimuFieldName%22%3A%22ObjectId%22%7D%2C%7B%22type%22%3A%22OPERATOR%22%2C%22exp%22%3A%22)%22%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿COUNT({ObjectId})﻿﻿</span>﻿</exp> </strong></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "verticalAlign": "start",
           "wrap": true
@@ -50167,6 +50197,7 @@
       "label": "Text 141",
       "config": {
         "text": "<p style=\"text-align: center; line-height: 2.3;\"><strong style=\"color: var(--info-900); font-size: 18px;\"><exp data-uniqueid=\"7baef45f_4a58_2cee_bbac_9bb0c3369d39\" data-dsid=\"dataSource_157-190f3ea6612-layer-91-dataView_1\" data-expression=\"%7B%22name%22%3A%22COUNT(%7BObjectId%7D)%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FUNCTION%22%2C%22exp%22%3A%22COUNT%22%7D%2C%7B%22type%22%3A%22OPERATOR%22%2C%22exp%22%3A%22(%22%7D%2C%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BObjectId%7D%22%2C%22dataSourceId%22%3A%22dataSource_157-190f3ea6612-layer-91-dataView_1%22%2C%22jimuFieldName%22%3A%22ObjectId%22%7D%2C%7B%22type%22%3A%22OPERATOR%22%2C%22exp%22%3A%22)%22%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿COUNT({ObjectId})﻿﻿</span>﻿</exp></strong> </p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "verticalAlign": "start",
           "wrap": true
@@ -50198,6 +50229,7 @@
       "label": "Text 142",
       "config": {
         "text": "<p style=\"text-align: center; line-height: 2.3;\"><strong style=\"color: var(--info-900); font-size: 18px;\"><exp data-uniqueid=\"f4ab334e_2011_689e_d885_5544ac6d3ad7\" data-dsid=\"dataSource_157-190f3ea6612-layer-91-dataView_3\" data-expression=\"%7B%22name%22%3A%22COUNT(%7BObjectId%7D)%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FUNCTION%22%2C%22exp%22%3A%22COUNT%22%7D%2C%7B%22type%22%3A%22OPERATOR%22%2C%22exp%22%3A%22(%22%7D%2C%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BObjectId%7D%22%2C%22dataSourceId%22%3A%22dataSource_157-190f3ea6612-layer-91-dataView_3%22%2C%22jimuFieldName%22%3A%22ObjectId%22%7D%2C%7B%22type%22%3A%22OPERATOR%22%2C%22exp%22%3A%22)%22%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿COUNT({ObjectId})﻿</span>﻿</exp> </strong></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "verticalAlign": "start",
           "wrap": true
@@ -50229,6 +50261,7 @@
       "label": "Text 143",
       "config": {
         "text": "<p style=\"text-align: center; line-height: 2.3;\"><strong style=\"color: var(--info-900); font-size: 18px;\"><exp data-uniqueid=\"60af2fe3_c1d4_deed_6307_1d7a146d20a1\" data-dsid=\"dataSource_157-190f3ea6612-layer-91-dataView_4\" data-expression=\"%7B%22name%22%3A%22COUNT(%7BObjectId%7D)%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FUNCTION%22%2C%22exp%22%3A%22COUNT%22%7D%2C%7B%22type%22%3A%22OPERATOR%22%2C%22exp%22%3A%22(%22%7D%2C%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BObjectId%7D%22%2C%22dataSourceId%22%3A%22dataSource_157-190f3ea6612-layer-91-dataView_4%22%2C%22jimuFieldName%22%3A%22ObjectId%22%7D%2C%7B%22type%22%3A%22OPERATOR%22%2C%22exp%22%3A%22)%22%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿COUNT({ObjectId})﻿﻿</span>﻿</exp> </strong><span style=\"font-size: 13px;\">﻿</span></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "verticalAlign": "start",
           "wrap": true
@@ -50260,6 +50293,7 @@
       "label": "Text 144",
       "config": {
         "text": "<p style=\"text-align: center; line-height: 2.3;\"><strong style=\"color: var(--info-900); font-size: 18px;\"><exp data-uniqueid=\"f886f00d_40f7_463f_eb87_bd7974070cf7\" data-dsid=\"dataSource_157-190f3ea6612-layer-91-dataView_5\" data-expression=\"%7B%22name%22%3A%22COUNT(%7BObjectId%7D)%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FUNCTION%22%2C%22exp%22%3A%22COUNT%22%7D%2C%7B%22type%22%3A%22OPERATOR%22%2C%22exp%22%3A%22(%22%7D%2C%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BObjectId%7D%22%2C%22dataSourceId%22%3A%22dataSource_157-190f3ea6612-layer-91-dataView_5%22%2C%22jimuFieldName%22%3A%22ObjectId%22%7D%2C%7B%22type%22%3A%22OPERATOR%22%2C%22exp%22%3A%22)%22%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿COUNT({ObjectId})﻿﻿</span>﻿</exp> </strong></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "verticalAlign": "start",
           "wrap": true
@@ -50291,6 +50325,7 @@
       "label": "Text 145",
       "config": {
         "text": "<p style=\"text-align: center; line-height: 2.3;\"><strong style=\"font-size: 18px; color: var(--info-900);\"><exp data-uniqueid=\"a5d5ad82_ed75_c5fc_9c54_37c992ddf8c5\" data-dsid=\"dataSource_157-190f3ea6612-layer-91-dataView_10\" data-expression=\"%7B%22name%22%3A%22COUNT(%7BObjectId%7D)%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FUNCTION%22%2C%22exp%22%3A%22COUNT%22%7D%2C%7B%22type%22%3A%22OPERATOR%22%2C%22exp%22%3A%22(%22%7D%2C%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BObjectId%7D%22%2C%22dataSourceId%22%3A%22dataSource_157-190f3ea6612-layer-91-dataView_10%22%2C%22jimuFieldName%22%3A%22ObjectId%22%7D%2C%7B%22type%22%3A%22OPERATOR%22%2C%22exp%22%3A%22)%22%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿COUNT({ObjectId})﻿﻿</span>﻿</exp> </strong></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "verticalAlign": "start",
           "wrap": true
@@ -50412,6 +50447,7 @@
       "label": "POI 3",
       "config": {
         "text": "<p><strong style=\"color: var(--info-700); font-size: 18px;\">1. Safety </strong></p><p><span style=\"color: var(--info-900); font-size: 18px;\">Design spaces to minimize risks, ensuring a secure environment for movement across all ages.</span><span style=\"font-size: 18px;\"> &nbsp; </span></p><p><br></p><p><strong style=\"font-size: 18px; color: var(--info-700);\">1.\tCommunity Services / Facilities \t</strong></p><p><span style=\"font-size: 18px; color: var(--info-900);\">Facilities and services that enhance social engagement and provide social support and community services.</span></p><p><br></p><p><strong style=\"font-size: 18px; color: var(--info-700);\">2.\tHealth Care Services / Facilities\t</strong></p><p><span style=\"font-size: 18px; color: var(--info-900);\">Health care services offering essential medical care and support for maintaining the health and well-being of the community, such as hospitals, clinics, pharmacies, and other health-related services.</span></p><p><br></p><p><strong style=\"font-size: 18px; color: var(--info-700);\">3.\tPublic Services\t</strong></p><p><span style=\"font-size: 18px; color: var(--info-900);\">Services provided by the government such as police, fire department, waste management, government offices and other essential civic utilities that support the infrastructure of the community.</span></p><p><br></p><p><strong style=\"font-size: 18px; color: var(--info-700);\">4.\tCare Centre / Care Homes\t</strong></p><p><span style=\"font-size: 18px; color: var(--info-900);\">Facilities that provide specialised care for the needed groups such as elderly, disabled, or other individuals requiring personal care.</span></p><p><br></p><p><strong style=\"font-size: 18px; color: var(--info-700);\">5.\tUtilities \t</strong></p><p><span style=\"color: var(--info-900); font-size: 18px;\">Basic services that support daily living, including electricity substations, Liquefied Petroleum Gas filing stations, petrol stations and electric vehicle charging spots. </span></p><p><br></p><p><strong style=\"font-size: 18px; color: var(--info-700);\">6.\tRetail / Market / Mall\t</strong></p><p><span style=\"font-size: 18px; color: var(--info-900);\">Retail options that cater to the shopping and dining needs of the community, including retail stores, wet market, supermarkets, convenience stores shopping malls and wholesale markets.</span></p><p><br></p><p><strong style=\"font-size: 18px; color: var(--info-700);\">7.\tEducation</strong><span style=\"font-size: 18px;\">\t</span></p><p><span style=\"font-size: 18px; color: var(--info-900);\">Educational institutions such as kindergartens, schools, universities, and training centres that provide learning opportunities and educational development.</span></p><p><br></p><p><strong style=\"font-size: 18px; color: var(--info-700);\">8.\tReligion </strong><span style=\"font-size: 18px;\"> \t</span></p><p><span style=\"font-size: 18px; color: var(--info-900);\">Facilities and services that cater to the spiritual and religious needs of the community, including churches, mosques and temple.</span></p><p><br></p><p><strong style=\"font-size: 18px; color: var(--info-700);\">9.\tTransportation\t</strong></p><p><span style=\"font-size: 18px; color: var(--info-900);\">Public transport and associated facilities including buses, trains, taxis and public transport interchanges.</span></p><p><br></p><p><strong style=\"font-size: 18px; color: var(--info-700);\">10.\tArts / Culture / Tourism</strong><span style=\"font-size: 18px; color: var(--info-700);\">\t</span></p><p><span style=\"font-size: 18px; color: var(--info-900);\">Venues and facilities that celebrate arts and culture and supports tourism activities, including museums, theatres, galleries, country parks, tourist attractions and tourist accommodations.</span></p><p><br></p><p><strong style=\"font-size: 18px; color: var(--info-700);\">11. Leisure / Recreation</strong><span style=\"font-size: 18px; color: var(--info-700);\">\t</span></p><p><span style=\"font-size: 18px; color: var(--info-900);\">Facilities and areas for leisure and recreation, promoting relaxation and enjoyment of citizens, including parks, playgrounds, sports complexes, beaches and cinemas</span></p><p><br></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "verticalAlign": "start",
           "wrap": true
@@ -50425,6 +50461,7 @@
       "label": "Text 146",
       "config": {
         "text": "<p style=\"text-align: center; line-height: 2.3;\"><strong style=\"color: var(--info-900); font-size: 18px;\"><exp data-uniqueid=\"4f09a8ee_e60c_4a51_408c_9779fdac2eaf\" data-dsid=\"dataSource_157-190f3ea6612-layer-91-dataView_11\" data-expression=\"%7B%22name%22%3A%22COUNT(%7BObjectId%7D)%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FUNCTION%22%2C%22exp%22%3A%22COUNT%22%7D%2C%7B%22type%22%3A%22OPERATOR%22%2C%22exp%22%3A%22(%22%7D%2C%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BObjectId%7D%22%2C%22dataSourceId%22%3A%22dataSource_157-190f3ea6612-layer-91-dataView_11%22%2C%22jimuFieldName%22%3A%22ObjectId%22%7D%2C%7B%22type%22%3A%22OPERATOR%22%2C%22exp%22%3A%22)%22%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿COUNT({ObjectId})﻿﻿</span>﻿</exp>  </strong></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "verticalAlign": "start",
           "wrap": true
@@ -52034,6 +52071,7 @@
       "label": "Text 147",
       "config": {
         "text": "<p style=\"text-align: center; line-height: 2.3;\"><strong style=\"color: var(--info-900); font-size: 18px;\"><exp data-uniqueid=\"d0ecf54c_aec1_5cf6_12ce_e00b6a204502\" data-dsid=\"dataSource_157-190f3ea6612-layer-91-dataView_7\" data-expression=\"%7B%22name%22%3A%22COUNT(%7BObjectId%7D)%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FUNCTION%22%2C%22exp%22%3A%22COUNT%22%7D%2C%7B%22type%22%3A%22OPERATOR%22%2C%22exp%22%3A%22(%22%7D%2C%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BObjectId%7D%22%2C%22dataSourceId%22%3A%22dataSource_157-190f3ea6612-layer-91-dataView_7%22%2C%22jimuFieldName%22%3A%22ObjectId%22%7D%2C%7B%22type%22%3A%22OPERATOR%22%2C%22exp%22%3A%22)%22%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿COUNT({ObjectId})﻿﻿</span>﻿</exp> </strong></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "verticalAlign": "start",
           "wrap": true
@@ -52065,6 +52103,7 @@
       "label": "Text 148",
       "config": {
         "text": "<p style=\"text-align: center; line-height: 2.3;\"><strong style=\"color: var(--info-900); font-size: 18px;\"><exp data-uniqueid=\"85c55a25_bbef_f8d4_41ec_6136c72fa111\" data-dsid=\"dataSource_157-190f3ea6612-layer-91-dataView_2\" data-expression=\"%7B%22name%22%3A%22COUNT(%7BObjectId%7D)%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FUNCTION%22%2C%22exp%22%3A%22COUNT%22%7D%2C%7B%22type%22%3A%22OPERATOR%22%2C%22exp%22%3A%22(%22%7D%2C%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BObjectId%7D%22%2C%22dataSourceId%22%3A%22dataSource_157-190f3ea6612-layer-91-dataView_2%22%2C%22jimuFieldName%22%3A%22ObjectId%22%7D%2C%7B%22type%22%3A%22OPERATOR%22%2C%22exp%22%3A%22)%22%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿COUNT({ObjectId})﻿</span>﻿</exp> </strong></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "verticalAlign": "start",
           "wrap": true
@@ -52096,6 +52135,7 @@
       "label": "Text 149",
       "config": {
         "text": "<p style=\"text-align: center; line-height: 2.3;\"><strong style=\"color: var(--info-900); font-size: 18px;\"><exp data-uniqueid=\"b8dc6912_3525_b318_fc93_2a77bc32ce23\" data-dsid=\"dataSource_157-190f3ea6612-layer-91-dataView_8\" data-expression=\"%7B%22name%22%3A%22COUNT(%7BObjectId%7D)%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FUNCTION%22%2C%22exp%22%3A%22COUNT%22%7D%2C%7B%22type%22%3A%22OPERATOR%22%2C%22exp%22%3A%22(%22%7D%2C%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BObjectId%7D%22%2C%22dataSourceId%22%3A%22dataSource_157-190f3ea6612-layer-91-dataView_8%22%2C%22jimuFieldName%22%3A%22ObjectId%22%7D%2C%7B%22type%22%3A%22OPERATOR%22%2C%22exp%22%3A%22)%22%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿COUNT({ObjectId})﻿﻿</span>﻿</exp> </strong></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "verticalAlign": "start",
           "wrap": true
@@ -52127,6 +52167,7 @@
       "label": "Text 150",
       "config": {
         "text": "<p style=\"text-align: center; line-height: 2.3;\"><strong style=\"color: var(--info-900); font-size: 18px;\"><exp data-uniqueid=\"3728210f_2a03_b0b1_873f_2aebd8de5400\" data-dsid=\"dataSource_157-190f3ea6612-layer-91-dataView_6\" data-expression=\"%7B%22name%22%3A%22COUNT(%7BObjectId%7D)%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FUNCTION%22%2C%22exp%22%3A%22COUNT%22%7D%2C%7B%22type%22%3A%22OPERATOR%22%2C%22exp%22%3A%22(%22%7D%2C%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BObjectId%7D%22%2C%22dataSourceId%22%3A%22dataSource_157-190f3ea6612-layer-91-dataView_6%22%2C%22jimuFieldName%22%3A%22ObjectId%22%7D%2C%7B%22type%22%3A%22OPERATOR%22%2C%22exp%22%3A%22)%22%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿COUNT({ObjectId})﻿﻿</span>﻿</exp> </strong></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "verticalAlign": "start",
           "wrap": true
@@ -52158,6 +52199,7 @@
       "label": "Text 151",
       "config": {
         "text": "<p style=\"text-align: center; line-height: 2.3;\"><strong style=\"font-size: 18px; color: var(--info-900);\"><exp data-uniqueid=\"a92e5755_aa59_1ac2_5f0e_5a5d7a7dec58\" data-dsid=\"dataSource_157-190f3ea6612-layer-91,dataSource_157-190f3ea6612-layer-91-dataView_9\" data-expression=\"%7B%22name%22%3A%22COUNT(%7BObjectId%7D)%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FUNCTION%22%2C%22exp%22%3A%22COUNT%22%7D%2C%7B%22type%22%3A%22OPERATOR%22%2C%22exp%22%3A%22(%22%7D%2C%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BObjectId%7D%22%2C%22dataSourceId%22%3A%22dataSource_157-190f3ea6612-layer-91-dataView_9%22%2C%22jimuFieldName%22%3A%22ObjectId%22%7D%2C%7B%22type%22%3A%22OPERATOR%22%2C%22exp%22%3A%22)%22%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿COUNT({ObjectId})﻿﻿</span>﻿</exp> </strong></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "verticalAlign": "start",
           "wrap": true
@@ -52195,6 +52237,7 @@
       "label": "Text 152",
       "config": {
         "text": "<p style=\"text-align: center; line-height: 2.3;\"><strong style=\"color: var(--info-900); font-size: 18px;\"><exp data-uniqueid=\"7baef45f_4a58_2cee_bbac_9bb0c3369d39\" data-dsid=\"dataSource_157-190f3ea6612-layer-91-dataView_1\" data-expression=\"%7B%22name%22%3A%22COUNT(%7BObjectId%7D)%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FUNCTION%22%2C%22exp%22%3A%22COUNT%22%7D%2C%7B%22type%22%3A%22OPERATOR%22%2C%22exp%22%3A%22(%22%7D%2C%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BObjectId%7D%22%2C%22dataSourceId%22%3A%22dataSource_157-190f3ea6612-layer-91-dataView_1%22%2C%22jimuFieldName%22%3A%22ObjectId%22%7D%2C%7B%22type%22%3A%22OPERATOR%22%2C%22exp%22%3A%22)%22%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿COUNT({ObjectId})﻿﻿</span>﻿</exp></strong> </p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "verticalAlign": "start",
           "wrap": true
@@ -52226,6 +52269,7 @@
       "label": "Text 153",
       "config": {
         "text": "<p style=\"text-align: center; line-height: 2.3;\"><strong style=\"color: var(--info-900); font-size: 18px;\"><exp data-uniqueid=\"f4ab334e_2011_689e_d885_5544ac6d3ad7\" data-dsid=\"dataSource_157-190f3ea6612-layer-91-dataView_3\" data-expression=\"%7B%22name%22%3A%22COUNT(%7BObjectId%7D)%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FUNCTION%22%2C%22exp%22%3A%22COUNT%22%7D%2C%7B%22type%22%3A%22OPERATOR%22%2C%22exp%22%3A%22(%22%7D%2C%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BObjectId%7D%22%2C%22dataSourceId%22%3A%22dataSource_157-190f3ea6612-layer-91-dataView_3%22%2C%22jimuFieldName%22%3A%22ObjectId%22%7D%2C%7B%22type%22%3A%22OPERATOR%22%2C%22exp%22%3A%22)%22%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿COUNT({ObjectId})﻿</span>﻿</exp> </strong></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "verticalAlign": "start",
           "wrap": true
@@ -52257,6 +52301,7 @@
       "label": "Text 154",
       "config": {
         "text": "<p style=\"text-align: center; line-height: 2.3;\"><strong style=\"color: var(--info-900); font-size: 18px;\"><exp data-uniqueid=\"60af2fe3_c1d4_deed_6307_1d7a146d20a1\" data-dsid=\"dataSource_157-190f3ea6612-layer-91-dataView_4\" data-expression=\"%7B%22name%22%3A%22COUNT(%7BObjectId%7D)%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FUNCTION%22%2C%22exp%22%3A%22COUNT%22%7D%2C%7B%22type%22%3A%22OPERATOR%22%2C%22exp%22%3A%22(%22%7D%2C%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BObjectId%7D%22%2C%22dataSourceId%22%3A%22dataSource_157-190f3ea6612-layer-91-dataView_4%22%2C%22jimuFieldName%22%3A%22ObjectId%22%7D%2C%7B%22type%22%3A%22OPERATOR%22%2C%22exp%22%3A%22)%22%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿COUNT({ObjectId})﻿﻿</span>﻿</exp> </strong><span style=\"font-size: 13px;\">﻿</span></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "verticalAlign": "start",
           "wrap": true
@@ -52288,6 +52333,7 @@
       "label": "Text 155",
       "config": {
         "text": "<p style=\"text-align: center; line-height: 2.3;\"><strong style=\"color: var(--info-900); font-size: 18px;\"><exp data-uniqueid=\"f886f00d_40f7_463f_eb87_bd7974070cf7\" data-dsid=\"dataSource_157-190f3ea6612-layer-91-dataView_5\" data-expression=\"%7B%22name%22%3A%22COUNT(%7BObjectId%7D)%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FUNCTION%22%2C%22exp%22%3A%22COUNT%22%7D%2C%7B%22type%22%3A%22OPERATOR%22%2C%22exp%22%3A%22(%22%7D%2C%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BObjectId%7D%22%2C%22dataSourceId%22%3A%22dataSource_157-190f3ea6612-layer-91-dataView_5%22%2C%22jimuFieldName%22%3A%22ObjectId%22%7D%2C%7B%22type%22%3A%22OPERATOR%22%2C%22exp%22%3A%22)%22%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿COUNT({ObjectId})﻿﻿</span>﻿</exp> </strong></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "verticalAlign": "start",
           "wrap": true
@@ -52319,6 +52365,7 @@
       "label": "Text 156",
       "config": {
         "text": "<p style=\"text-align: center; line-height: 2.3;\"><strong style=\"font-size: 18px; color: var(--info-900);\"><exp data-uniqueid=\"a5d5ad82_ed75_c5fc_9c54_37c992ddf8c5\" data-dsid=\"dataSource_157-190f3ea6612-layer-91-dataView_10\" data-expression=\"%7B%22name%22%3A%22COUNT(%7BObjectId%7D)%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FUNCTION%22%2C%22exp%22%3A%22COUNT%22%7D%2C%7B%22type%22%3A%22OPERATOR%22%2C%22exp%22%3A%22(%22%7D%2C%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BObjectId%7D%22%2C%22dataSourceId%22%3A%22dataSource_157-190f3ea6612-layer-91-dataView_10%22%2C%22jimuFieldName%22%3A%22ObjectId%22%7D%2C%7B%22type%22%3A%22OPERATOR%22%2C%22exp%22%3A%22)%22%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿COUNT({ObjectId})﻿﻿</span>﻿</exp> </strong></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "verticalAlign": "start",
           "wrap": true
@@ -52440,6 +52487,7 @@
       "label": "POI 4",
       "config": {
         "text": "<p><strong style=\"color: var(--info-700); font-size: 18px;\">1. Safety </strong></p><p><span style=\"color: var(--info-900); font-size: 18px;\">Design spaces to minimize risks, ensuring a secure environment for movement across all ages.</span><span style=\"font-size: 18px;\"> &nbsp; </span></p><p><br></p><p><strong style=\"font-size: 18px; color: var(--info-700);\">1.\tCommunity Services / Facilities \t</strong></p><p><span style=\"font-size: 18px; color: var(--info-900);\">Facilities and services that enhance social engagement and provide social support and community services.</span></p><p><br></p><p><strong style=\"font-size: 18px; color: var(--info-700);\">2.\tHealth Care Services / Facilities\t</strong></p><p><span style=\"font-size: 18px; color: var(--info-900);\">Health care services offering essential medical care and support for maintaining the health and well-being of the community, such as hospitals, clinics, pharmacies, and other health-related services.</span></p><p><br></p><p><strong style=\"font-size: 18px; color: var(--info-700);\">3.\tPublic Services\t</strong></p><p><span style=\"font-size: 18px; color: var(--info-900);\">Services provided by the government such as police, fire department, waste management, government offices and other essential civic utilities that support the infrastructure of the community.</span></p><p><br></p><p><strong style=\"font-size: 18px; color: var(--info-700);\">4.\tCare Centre / Care Homes\t</strong></p><p><span style=\"font-size: 18px; color: var(--info-900);\">Facilities that provide specialised care for the needed groups such as elderly, disabled, or other individuals requiring personal care.</span></p><p><br></p><p><strong style=\"font-size: 18px; color: var(--info-700);\">5.\tUtilities \t</strong></p><p><span style=\"color: var(--info-900); font-size: 18px;\">Basic services that support daily living, including electricity substations, Liquefied Petroleum Gas filing stations, petrol stations and electric vehicle charging spots. </span></p><p><br></p><p><strong style=\"font-size: 18px; color: var(--info-700);\">6.\tRetail / Market / Mall\t</strong></p><p><span style=\"font-size: 18px; color: var(--info-900);\">Retail options that cater to the shopping and dining needs of the community, including retail stores, wet market, supermarkets, convenience stores shopping malls and wholesale markets.</span></p><p><br></p><p><strong style=\"font-size: 18px; color: var(--info-700);\">7.\tEducation</strong><span style=\"font-size: 18px;\">\t</span></p><p><span style=\"font-size: 18px; color: var(--info-900);\">Educational institutions such as kindergartens, schools, universities, and training centres that provide learning opportunities and educational development.</span></p><p><br></p><p><strong style=\"font-size: 18px; color: var(--info-700);\">8.\tReligion </strong><span style=\"font-size: 18px;\"> \t</span></p><p><span style=\"font-size: 18px; color: var(--info-900);\">Facilities and services that cater to the spiritual and religious needs of the community, including churches, mosques and temple.</span></p><p><br></p><p><strong style=\"font-size: 18px; color: var(--info-700);\">9.\tTransportation\t</strong></p><p><span style=\"font-size: 18px; color: var(--info-900);\">Public transport and associated facilities including buses, trains, taxis and public transport interchanges.</span></p><p><br></p><p><strong style=\"font-size: 18px; color: var(--info-700);\">10.\tArts / Culture / Tourism</strong><span style=\"font-size: 18px; color: var(--info-700);\">\t</span></p><p><span style=\"font-size: 18px; color: var(--info-900);\">Venues and facilities that celebrate arts and culture and supports tourism activities, including museums, theatres, galleries, country parks, tourist attractions and tourist accommodations.</span></p><p><br></p><p><strong style=\"font-size: 18px; color: var(--info-700);\">11. Leisure / Recreation</strong><span style=\"font-size: 18px; color: var(--info-700);\">\t</span></p><p><span style=\"font-size: 18px; color: var(--info-900);\">Facilities and areas for leisure and recreation, promoting relaxation and enjoyment of citizens, including parks, playgrounds, sports complexes, beaches and cinemas</span></p><p><br></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "verticalAlign": "start",
           "wrap": true
@@ -52453,6 +52501,7 @@
       "label": "Text 157",
       "config": {
         "text": "<p style=\"text-align: center; line-height: 2.3;\"><strong style=\"color: var(--info-900); font-size: 18px;\"><exp data-uniqueid=\"4f09a8ee_e60c_4a51_408c_9779fdac2eaf\" data-dsid=\"dataSource_157-190f3ea6612-layer-91-dataView_11\" data-expression=\"%7B%22name%22%3A%22COUNT(%7BObjectId%7D)%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FUNCTION%22%2C%22exp%22%3A%22COUNT%22%7D%2C%7B%22type%22%3A%22OPERATOR%22%2C%22exp%22%3A%22(%22%7D%2C%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BObjectId%7D%22%2C%22dataSourceId%22%3A%22dataSource_157-190f3ea6612-layer-91-dataView_11%22%2C%22jimuFieldName%22%3A%22ObjectId%22%7D%2C%7B%22type%22%3A%22OPERATOR%22%2C%22exp%22%3A%22)%22%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿COUNT({ObjectId})﻿﻿</span>﻿</exp>  </strong></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "verticalAlign": "start",
           "wrap": true
@@ -83892,15 +83941,9 @@
       "page_6": []
     }
   ],
-  "timestamp": 1743526426939,
+  "timestamp": 1743527087079,
   "attributes": {
-    "portalUrl": "https://jcdisi.maps.arcgis.com",
-    "isWebTier": false,
-    "clientId": "",
-    "title": "Age-Friendly Community(造就適老化社區)",
-    "description": "",
-    "type": "Web Experience",
-    "thumbnail": "thumbnail/thumbnail1730024963759.png"
+    "portalUrl": "https://jcdisi.maps.arcgis.com"
   },
   "sharedThemeVariables": null,
   "customTheme": {
@@ -83963,51 +84006,5 @@
       "source": "org"
     }
   },
-  "controllerPanels": {},
-  "historyLabels": {
-    "pages": {
-      "page_6": [
-        "Facility "
-      ]
-    },
-    "views": {
-      "view_29": [
-        "Service Support  "
-      ],
-      "view_39": [
-        "Comfort "
-      ],
-      "view_44": [
-        "Social Interaction  "
-      ],
-      "view_47": [
-        "Convenience "
-      ],
-      "view_60": [
-        "Convenience  2"
-      ],
-      "view_64": [
-        "Comfort  2"
-      ],
-      "view_69": [
-        "Service Support   2"
-      ],
-      "view_78": [
-        "Social Interaction   2"
-      ],
-      "view_85": [
-        "Convenience  3"
-      ],
-      "view_89": [
-        "Comfort  3"
-      ],
-      "view_94": [
-        "Service Support   3"
-      ],
-      "view_103": [
-        "Social Interaction   3"
-      ]
-    }
-  },
-  "publishTimestamp": 1743526429054
+  "controllerPanels": {}
 }
